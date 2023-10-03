@@ -4,7 +4,7 @@ Run locally:
 
 1. Open Terminal
 2. Type: 'npm i'
-3. Type:'npm start'
+3. Type:'npm start' or 'npx electronmon .' to see changes immediately
 
 Run with Docker:
 
