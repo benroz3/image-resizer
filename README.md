@@ -1,4 +1,4 @@
-Image Resizer Desktop app using Electron & TypeScript.
+Image Resizer Desktop app using Electron.
 
 Run locally:
 
